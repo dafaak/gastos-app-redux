@@ -1,2 +1,10 @@
 {
+  "hosting": {
+    "public": "dist/gastos-app",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
 }
